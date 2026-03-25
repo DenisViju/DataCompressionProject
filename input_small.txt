@@ -1,0 +1,11 @@
+Intr-o lume in continua schimbare, tehnologia joaca un rol esential in viata de zi cu zi. Oamenii folosesc dispozitive digitale pentru a comunica, a invata si a lucra mai eficient. In ultimii ani, volumul de date generate a crescut semnificativ, iar nevoia de a procesa aceste date rapid si eficient a devenit din ce in ce mai importanta.
+
+Compresia datelor este o tehnica fundamentala in informatica, care permite reducerea dimensiunii fisierelor prin eliminarea redundantei. Aceasta este utilizata in numeroase aplicatii, de la arhivarea fisierelor pana la transmiterea informatiilor prin retele. Prin reducerea dimensiunii datelor, se economiseste spatiu de stocare si se imbunatateste viteza de transfer.
+
+Algoritmii de compresie pot fi clasificati in doua categorii principale: compresie fara pierderi si compresie cu pierderi. Compresia fara pierderi permite reconstructia exacta a datelor originale, in timp ce compresia cu pierderi elimina anumite informatii considerate mai putin importante.
+
+In cadrul acestui proiect se analizeaza un algoritm de compresie implementat in limbajul C++. Scopul este de a observa diferentele de performanta intre varianta secventiala si cea paralela. Prin utilizarea tehnologiei MPI, datele pot fi impartite in mai multe segmente care sunt procesate simultan, reducand astfel timpul total de executie.
+
+Rezultatele experimentale vor evidentia avantajele programarii paralele, in special pentru volume mari de date. In acelasi timp, se vor analiza si limitarile acestei abordari, cum ar fi costurile de comunicare intre procese si complexitatea implementarii.
+
+Astfel, proiectul demonstreaza importanta optimizarii algoritmilor si rolul esential al paralelizarii in aplicatiile moderne de procesare a datelor.
